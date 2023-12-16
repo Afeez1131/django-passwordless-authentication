@@ -62,7 +62,7 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 
 ## Contact
 - LinkedIn [@Lawal Afeez](https://www.linkedin.com/in/lawal-afeez)
-- Mail [@lawalafeez052@gmail.com](lawalafeez052@gmail.com)
+- Mail [lawalafeez052@gmail.com](lawalafeez052@gmail.com)
 
 
 ## License

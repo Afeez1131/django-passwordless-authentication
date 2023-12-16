@@ -1,5 +1,4 @@
 
-```markdown
 # Django Passwordless Authentication Tutorial
 
 ## Overview
@@ -12,6 +11,7 @@ This repository contains the source code for the "Ditch the Passwords! Building 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Contact](#Contact)
 - [License](#license)
 
 ## Introduction
@@ -60,11 +60,11 @@ For generating and sending one-time login links, visit [http://127.0.0.1:8000/pa
 
 Feel free to contribute to the project by opening issues or submitting pull requests. Your contributions are highly appreciated!
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
 ## Contact
 - LinkedIn [@Lawal Afeez](https://www.linkedin.com/in/lawal-afeez)
 - Mail [@lawalafeez052@gmail.com](lawalafeez052@gmail.com)
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).

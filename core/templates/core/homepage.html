@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Passwordless</title>
+</head>
+
+<body>
+    <p>Authentication Status.</p>
+    {% if request.user.is_authenticated %}
+    <h4>{{request.user}}, <br>user is Authenticated: {{request.user.is_authenticated}}
+        <br>{{request.user.email}}
+    </h4>
+    {% else %}
+    <p>User is not Authenticated</p>
+    {% endif %}
+</body>
+
+</html>
